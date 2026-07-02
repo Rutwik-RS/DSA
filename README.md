@@ -15,3 +15,15 @@ This repository contains my Java solutions for Data Structures and Algorithms pr
 - Sliding Window
 
 Language: Java
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+<!---LeetCode Topics End-->
