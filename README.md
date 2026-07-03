@@ -25,12 +25,14 @@ Language: Java
 | [0162-find-peak-element](https://github.com/Rutwik-RS/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
+| [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rutwik-RS/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -43,4 +45,24 @@ Language: Java
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
