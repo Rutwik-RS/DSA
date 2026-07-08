@@ -48,10 +48,12 @@ Language: Java
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
 | ------- |
@@ -65,6 +67,7 @@ Language: Java
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -100,4 +103,8 @@ Language: Java
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rutwik-RS/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
