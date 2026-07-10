@@ -32,6 +32,7 @@ Language: Java
 | [1301-number-of-paths-with-max-score](https://github.com/Rutwik-RS/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rutwik-RS/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Rutwik-RS/DSA/tree/master/1539-kth-missing-positive-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -43,6 +44,7 @@ Language: Java
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rutwik-RS/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rutwik-RS/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Rutwik-RS/DSA/tree/master/1539-kth-missing-positive-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -63,11 +65,13 @@ Language: Java
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutwik-RS/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -85,11 +89,13 @@ Language: Java
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rutwik-RS/DSA/tree/master/0015-3sum) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rutwik-RS/DSA/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/Rutwik-RS/DSA/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -107,4 +113,12 @@ Language: Java
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
