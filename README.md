@@ -24,6 +24,7 @@ Language: Java
 | [0015-3sum](https://github.com/Rutwik-RS/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rutwik-RS/DSA/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rutwik-RS/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rutwik-RS/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -39,6 +40,7 @@ Language: Java
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rutwik-RS/DSA/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rutwik-RS/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rutwik-RS/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rutwik-RS/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -61,6 +63,7 @@ Language: Java
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rutwik-RS/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutwik-RS/DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Dynamic Programming
@@ -125,4 +128,8 @@ Language: Java
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rutwik-RS/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
