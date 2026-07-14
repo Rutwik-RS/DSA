@@ -35,6 +35,7 @@ Language: Java
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rutwik-RS/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Rutwik-RS/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Rutwik-RS/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutwik-RS/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -74,6 +75,7 @@ Language: Java
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutwik-RS/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutwik-RS/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -110,6 +112,7 @@ Language: Java
 ## Math
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutwik-RS/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rutwik-RS/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rutwik-RS/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -141,4 +144,8 @@ Language: Java
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Rutwik-RS/DSA/tree/master/1331-rank-transform-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutwik-RS/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
