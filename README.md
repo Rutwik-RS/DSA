@@ -116,6 +116,7 @@ Language: Java
 ## Math
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Rutwik-RS/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutwik-RS/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rutwik-RS/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rutwik-RS/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -125,6 +126,7 @@ Language: Java
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Rutwik-RS/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rutwik-RS/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Rutwik-RS/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rutwik-RS/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -139,6 +141,7 @@ Language: Java
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Rutwik-RS/DSA/tree/master/0455-assign-cookies) |
+| [1903-largest-odd-number-in-string](https://github.com/Rutwik-RS/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
