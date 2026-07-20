@@ -106,6 +106,7 @@ Language: Java
 | [0015-3sum](https://github.com/Rutwik-RS/DSA/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Rutwik-RS/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Rutwik-RS/DSA/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -196,4 +197,5 @@ Language: Java
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
