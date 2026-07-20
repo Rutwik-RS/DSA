@@ -106,6 +106,7 @@ Language: Java
 | [0015-3sum](https://github.com/Rutwik-RS/DSA/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Rutwik-RS/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rutwik-RS/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Rutwik-RS/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Rutwik-RS/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Rutwik-RS/DSA/tree/master/0455-assign-cookies) |
@@ -115,6 +116,7 @@ Language: Java
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rutwik-RS/DSA/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/Rutwik-RS/DSA/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/Rutwik-RS/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Rutwik-RS/DSA/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/Rutwik-RS/DSA/tree/master/1288-remove-covered-intervals) |
@@ -162,6 +164,7 @@ Language: Java
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Rutwik-RS/DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rutwik-RS/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -204,6 +207,7 @@ Language: Java
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rutwik-RS/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rutwik-RS/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Rutwik-RS/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -214,4 +218,8 @@ Language: Java
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Rutwik-RS/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
