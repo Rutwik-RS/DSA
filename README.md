@@ -125,6 +125,7 @@ Language: Java
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Rutwik-RS/DSA/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/Rutwik-RS/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutwik-RS/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rutwik-RS/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -160,6 +161,7 @@ Language: Java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Rutwik-RS/DSA/tree/master/0231-power-of-two) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
@@ -217,6 +219,7 @@ Language: Java
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Rutwik-RS/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
