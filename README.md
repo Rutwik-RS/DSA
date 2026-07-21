@@ -143,6 +143,7 @@ Language: Java
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rutwik-RS/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rutwik-RS/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Rutwik-RS/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Rutwik-RS/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rutwik-RS/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -228,4 +229,8 @@ Language: Java
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rutwik-RS/DSA/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Rutwik-RS/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
