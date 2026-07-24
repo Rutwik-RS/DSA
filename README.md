@@ -142,6 +142,7 @@ Language: Java
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rutwik-RS/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Rutwik-RS/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Rutwik-RS/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rutwik-RS/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Rutwik-RS/DSA/tree/master/0796-rotate-string) |
@@ -198,6 +199,7 @@ Language: Java
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rutwik-RS/DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Rutwik-RS/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rutwik-RS/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0234-palindrome-linked-list) |
