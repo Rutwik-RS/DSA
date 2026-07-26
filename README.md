@@ -280,4 +280,5 @@ Language: Java
 |  |
 | ------- |
 | [0619-biggest-single-number](https://github.com/Rutwik-RS/DSA/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/Rutwik-RS/DSA/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
