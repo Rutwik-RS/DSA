@@ -30,6 +30,7 @@ Language: Java
 | [0240-search-a-2d-matrix-ii](https://github.com/Rutwik-RS/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/Rutwik-RS/DSA/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rutwik-RS/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rutwik-RS/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rutwik-RS/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -126,6 +127,7 @@ Language: Java
 | [0148-sort-list](https://github.com/Rutwik-RS/DSA/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/Rutwik-RS/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Rutwik-RS/DSA/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rutwik-RS/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Rutwik-RS/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rutwik-RS/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -137,6 +139,7 @@ Language: Java
 | [0050-powx-n](https://github.com/Rutwik-RS/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Rutwik-RS/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rutwik-RS/DSA/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rutwik-RS/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Rutwik-RS/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutwik-RS/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rutwik-RS/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
