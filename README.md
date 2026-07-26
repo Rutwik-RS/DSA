@@ -276,4 +276,8 @@ Language: Java
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rutwik-RS/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rutwik-RS/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/Rutwik-RS/DSA/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
