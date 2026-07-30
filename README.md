@@ -29,6 +29,7 @@ Language: Java
 | [0204-count-primes](https://github.com/Rutwik-RS/DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rutwik-RS/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/Rutwik-RS/DSA/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Rutwik-RS/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Rutwik-RS/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rutwik-RS/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -53,6 +54,7 @@ Language: Java
 | [0033-search-in-rotated-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rutwik-RS/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rutwik-RS/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0456-132-pattern](https://github.com/Rutwik-RS/DSA/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rutwik-RS/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rutwik-RS/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -216,6 +218,7 @@ Language: Java
 | [0225-implement-stack-using-queues](https://github.com/Rutwik-RS/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rutwik-RS/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/Rutwik-RS/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Rutwik-RS/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rutwik-RS/DSA/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Rutwik-RS/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -301,6 +304,11 @@ Language: Java
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Rutwik-RS/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Rutwik-RS/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rutwik-RS/DSA/tree/master/0503-next-greater-element-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Rutwik-RS/DSA/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
