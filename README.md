@@ -33,6 +33,7 @@ Language: Java
 | [0496-next-greater-element-i](https://github.com/Rutwik-RS/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rutwik-RS/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Rutwik-RS/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutwik-RS/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rutwik-RS/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -122,6 +123,7 @@ Language: Java
 | [0160-intersection-of-two-linked-lists](https://github.com/Rutwik-RS/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Rutwik-RS/DSA/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Rutwik-RS/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0876-middle-of-the-linked-list](https://github.com/Rutwik-RS/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -131,6 +133,7 @@ Language: Java
 | [0148-sort-list](https://github.com/Rutwik-RS/DSA/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/Rutwik-RS/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Rutwik-RS/DSA/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Rutwik-RS/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutwik-RS/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Rutwik-RS/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rutwik-RS/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -179,6 +182,7 @@ Language: Java
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Rutwik-RS/DSA/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Rutwik-RS/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1903-largest-odd-number-in-string](https://github.com/Rutwik-RS/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -221,6 +225,7 @@ Language: Java
 | [0456-132-pattern](https://github.com/Rutwik-RS/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Rutwik-RS/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rutwik-RS/DSA/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Rutwik-RS/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1021-remove-outermost-parentheses](https://github.com/Rutwik-RS/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rutwik-RS/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -307,6 +312,7 @@ Language: Java
 | [0456-132-pattern](https://github.com/Rutwik-RS/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Rutwik-RS/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rutwik-RS/DSA/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Rutwik-RS/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Ordered Set
 |  |
 | ------- |
