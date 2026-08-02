@@ -24,6 +24,7 @@ Language: Java
 | [0014-longest-common-prefix](https://github.com/Rutwik-RS/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Rutwik-RS/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Rutwik-RS/DSA/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Rutwik-RS/DSA/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Rutwik-RS/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Rutwik-RS/DSA/tree/master/0162-find-peak-element) |
@@ -341,4 +342,8 @@ Language: Java
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rutwik-RS/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Rutwik-RS/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
