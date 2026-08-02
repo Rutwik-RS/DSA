@@ -17,7 +17,7 @@ class Solution {
             }
         }
 
-        if(dp[0][3] >=0) return true;
+        if(dp[0][n-1] >=0) return true;
         else return false;
 
     }
