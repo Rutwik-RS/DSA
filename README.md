@@ -24,6 +24,7 @@ Language: Java
 | [0014-longest-common-prefix](https://github.com/Rutwik-RS/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Rutwik-RS/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/Rutwik-RS/DSA/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Rutwik-RS/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Rutwik-RS/DSA/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/Rutwik-RS/DSA/tree/master/0204-count-primes) |
@@ -88,6 +89,7 @@ Language: Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rutwik-RS/DSA/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/Rutwik-RS/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutwik-RS/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -187,6 +189,7 @@ Language: Java
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rutwik-RS/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Rutwik-RS/DSA/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Rutwik-RS/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1903-largest-odd-number-in-string](https://github.com/Rutwik-RS/DSA/tree/master/1903-largest-odd-number-in-string) |
