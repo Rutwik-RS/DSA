@@ -37,6 +37,7 @@ Language: Java
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Rutwik-RS/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutwik-RS/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rutwik-RS/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rutwik-RS/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Rutwik-RS/DSA/tree/master/1288-remove-covered-intervals) |
@@ -88,6 +89,7 @@ Language: Java
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rutwik-RS/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutwik-RS/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutwik-RS/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -150,6 +152,7 @@ Language: Java
 | [0231-power-of-two](https://github.com/Rutwik-RS/DSA/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Rutwik-RS/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutwik-RS/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Rutwik-RS/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutwik-RS/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rutwik-RS/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -325,4 +328,5 @@ Language: Java
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rutwik-RS/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
