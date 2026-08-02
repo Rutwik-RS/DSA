@@ -52,6 +52,7 @@ Language: Java
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rutwik-RS/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Rutwik-RS/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Language: Java
 | [1331-rank-transform-of-an-array](https://github.com/Rutwik-RS/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rutwik-RS/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Rutwik-RS/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Math
 |  |
 | ------- |
@@ -198,6 +200,7 @@ Language: Java
 | [1323-maximum-69-number](https://github.com/Rutwik-RS/DSA/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Rutwik-RS/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Rutwik-RS/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -297,6 +300,7 @@ Language: Java
 | ------- |
 | [0204-count-primes](https://github.com/Rutwik-RS/DSA/tree/master/0204-count-primes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rutwik-RS/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Rutwik-RS/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Design
 |  |
 | ------- |
