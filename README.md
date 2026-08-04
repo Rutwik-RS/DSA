@@ -55,6 +55,7 @@ Language: Java
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rutwik-RS/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/Rutwik-RS/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Rutwik-RS/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Binary Search
 |  |
@@ -150,6 +151,7 @@ Language: Java
 | [1331-rank-transform-of-an-array](https://github.com/Rutwik-RS/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rutwik-RS/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Rutwik-RS/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Rutwik-RS/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Math
 |  |
@@ -232,6 +234,7 @@ Language: Java
 | [0496-next-greater-element-i](https://github.com/Rutwik-RS/DSA/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Rutwik-RS/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rutwik-RS/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3731-find-missing-elements](https://github.com/Rutwik-RS/DSA/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
 | ------- |
