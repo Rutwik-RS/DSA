@@ -103,6 +103,7 @@ Language: Java
 | [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutwik-RS/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Rutwik-RS/DSA/tree/master/1406-stone-game-iii) |
+| [1668-maximum-repeating-substring](https://github.com/Rutwik-RS/DSA/tree/master/1668-maximum-repeating-substring) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutwik-RS/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Rutwik-RS/DSA/tree/master/3620-network-recovery-pathways) |
@@ -188,6 +189,7 @@ Language: Java
 | [0796-rotate-string](https://github.com/Rutwik-RS/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rutwik-RS/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rutwik-RS/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1668-maximum-repeating-substring](https://github.com/Rutwik-RS/DSA/tree/master/1668-maximum-repeating-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rutwik-RS/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Rutwik-RS/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rutwik-RS/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -267,6 +269,7 @@ Language: Java
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Rutwik-RS/DSA/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/Rutwik-RS/DSA/tree/master/1668-maximum-repeating-substring) |
 ## Bucket Sort
 |  |
 | ------- |
