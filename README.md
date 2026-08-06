@@ -98,6 +98,7 @@ Language: Java
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Rutwik-RS/DSA/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/Rutwik-RS/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rutwik-RS/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Rutwik-RS/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
@@ -183,6 +184,7 @@ Language: Java
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rutwik-RS/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rutwik-RS/DSA/tree/master/0020-valid-parentheses) |
+| [0091-decode-ways](https://github.com/Rutwik-RS/DSA/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/Rutwik-RS/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Rutwik-RS/DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Rutwik-RS/DSA/tree/master/0451-sort-characters-by-frequency) |
