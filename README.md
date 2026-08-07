@@ -83,6 +83,7 @@ Language: Java
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Rutwik-RS/DSA/tree/master/0279-perfect-squares) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rutwik-RS/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -100,6 +101,7 @@ Language: Java
 | [0055-jump-game](https://github.com/Rutwik-RS/DSA/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/Rutwik-RS/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rutwik-RS/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/Rutwik-RS/DSA/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Rutwik-RS/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutwik-RS/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -167,6 +169,7 @@ Language: Java
 | [0050-powx-n](https://github.com/Rutwik-RS/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Rutwik-RS/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rutwik-RS/DSA/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Rutwik-RS/DSA/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Rutwik-RS/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutwik-RS/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
@@ -373,4 +376,12 @@ Language: Java
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Rutwik-RS/DSA/tree/master/1406-stone-game-iii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Rutwik-RS/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Rutwik-RS/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
