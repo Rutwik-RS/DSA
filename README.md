@@ -43,6 +43,7 @@ Language: Java
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rutwik-RS/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/Rutwik-RS/DSA/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rutwik-RS/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Rutwik-RS/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutwik-RS/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -79,6 +80,7 @@ Language: Java
 | [0547-number-of-provinces](https://github.com/Rutwik-RS/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Rutwik-RS/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Rutwik-RS/DSA/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rutwik-RS/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Rutwik-RS/DSA/tree/master/3310-remove-methods-from-project) |
@@ -89,6 +91,7 @@ Language: Java
 | [0547-number-of-provinces](https://github.com/Rutwik-RS/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Rutwik-RS/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Rutwik-RS/DSA/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rutwik-RS/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Rutwik-RS/DSA/tree/master/3310-remove-methods-from-project) |
@@ -97,6 +100,7 @@ Language: Java
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rutwik-RS/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Rutwik-RS/DSA/tree/master/1020-number-of-enclaves) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutwik-RS/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/Rutwik-RS/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Dynamic Programming
@@ -215,6 +219,7 @@ Language: Java
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rutwik-RS/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Rutwik-RS/DSA/tree/master/0684-redundant-connection) |
+| [1020-number-of-enclaves](https://github.com/Rutwik-RS/DSA/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rutwik-RS/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Greedy
