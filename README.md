@@ -77,6 +77,7 @@ Language: Java
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rutwik-RS/DSA/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Rutwik-RS/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rutwik-RS/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -86,6 +87,7 @@ Language: Java
 | ------- |
 | [0279-perfect-squares](https://github.com/Rutwik-RS/DSA/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Rutwik-RS/DSA/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Rutwik-RS/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rutwik-RS/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -116,6 +118,7 @@ Language: Java
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rutwik-RS/DSA/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Rutwik-RS/DSA/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rutwik-RS/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Rutwik-RS/DSA/tree/master/3310-remove-methods-from-project) |
@@ -211,6 +214,7 @@ Language: Java
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rutwik-RS/DSA/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Rutwik-RS/DSA/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rutwik-RS/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Greedy
