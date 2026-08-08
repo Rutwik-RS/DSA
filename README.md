@@ -52,6 +52,7 @@ Language: Java
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rutwik-RS/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Rutwik-RS/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Rutwik-RS/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1765-map-of-highest-peak](https://github.com/Rutwik-RS/DSA/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/Rutwik-RS/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutwik-RS/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rutwik-RS/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -92,6 +93,7 @@ Language: Java
 | [0684-redundant-connection](https://github.com/Rutwik-RS/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Rutwik-RS/DSA/tree/master/1020-number-of-enclaves) |
+| [1765-map-of-highest-peak](https://github.com/Rutwik-RS/DSA/tree/master/1765-map-of-highest-peak) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rutwik-RS/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rutwik-RS/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Rutwik-RS/DSA/tree/master/3310-remove-methods-from-project) |
@@ -102,6 +104,7 @@ Language: Java
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Rutwik-RS/DSA/tree/master/1020-number-of-enclaves) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutwik-RS/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1765-map-of-highest-peak](https://github.com/Rutwik-RS/DSA/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/Rutwik-RS/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
