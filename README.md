@@ -45,6 +45,7 @@ Language: Java
 | [0959-regions-cut-by-slashes](https://github.com/Rutwik-RS/DSA/tree/master/0959-regions-cut-by-slashes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rutwik-RS/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Rutwik-RS/DSA/tree/master/1020-number-of-enclaves) |
+| [1140-stone-game-ii](https://github.com/Rutwik-RS/DSA/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rutwik-RS/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Rutwik-RS/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutwik-RS/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -120,6 +121,7 @@ Language: Java
 | [0486-predict-the-winner](https://github.com/Rutwik-RS/DSA/tree/master/0486-predict-the-winner) |
 | [0576-out-of-boundary-paths](https://github.com/Rutwik-RS/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rutwik-RS/DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutwik-RS/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Rutwik-RS/DSA/tree/master/1406-stone-game-iii) |
 | [1668-maximum-repeating-substring](https://github.com/Rutwik-RS/DSA/tree/master/1668-maximum-repeating-substring) |
@@ -191,6 +193,7 @@ Language: Java
 | [0486-predict-the-winner](https://github.com/Rutwik-RS/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutwik-RS/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rutwik-RS/DSA/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/Rutwik-RS/DSA/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/Rutwik-RS/DSA/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Rutwik-RS/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -220,6 +223,7 @@ Language: Java
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Rutwik-RS/DSA/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Rutwik-RS/DSA/tree/master/1732-find-the-highest-altitude) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rutwik-RS/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
@@ -386,6 +390,7 @@ Language: Java
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rutwik-RS/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rutwik-RS/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rutwik-RS/DSA/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
@@ -394,10 +399,12 @@ Language: Java
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Rutwik-RS/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rutwik-RS/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Rutwik-RS/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rutwik-RS/DSA/tree/master/1406-stone-game-iii) |
 ## Knapsack Problem
 |  |
