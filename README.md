@@ -118,6 +118,7 @@ Language: Java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rutwik-RS/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Rutwik-RS/DSA/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Rutwik-RS/DSA/tree/master/0486-predict-the-winner) |
+| [0576-out-of-boundary-paths](https://github.com/Rutwik-RS/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rutwik-RS/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Rutwik-RS/DSA/tree/master/1406-stone-game-iii) |
