@@ -80,6 +80,7 @@ Language: Java
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rutwik-RS/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Rutwik-RS/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Rutwik-RS/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
@@ -91,6 +92,7 @@ Language: Java
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rutwik-RS/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/Rutwik-RS/DSA/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Rutwik-RS/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Rutwik-RS/DSA/tree/master/0684-redundant-connection) |
@@ -418,4 +420,12 @@ Language: Java
 |  |
 | ------- |
 | [0959-regions-cut-by-slashes](https://github.com/Rutwik-RS/DSA/tree/master/0959-regions-cut-by-slashes) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rutwik-RS/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rutwik-RS/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
