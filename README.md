@@ -81,6 +81,7 @@ Language: Java
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Rutwik-RS/DSA/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Rutwik-RS/DSA/tree/master/0110-balanced-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Rutwik-RS/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Rutwik-RS/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Rutwik-RS/DSA/tree/master/0733-flood-fill) |
@@ -424,8 +425,10 @@ Language: Java
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Rutwik-RS/DSA/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Rutwik-RS/DSA/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Rutwik-RS/DSA/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Rutwik-RS/DSA/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
