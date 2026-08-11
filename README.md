@@ -119,6 +119,7 @@ Language: Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rutwik-RS/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Rutwik-RS/DSA/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/Rutwik-RS/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rutwik-RS/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -159,6 +160,7 @@ Language: Java
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rutwik-RS/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Rutwik-RS/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rutwik-RS/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Rutwik-RS/DSA/tree/master/0061-rotate-list) |
@@ -213,6 +215,7 @@ Language: Java
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rutwik-RS/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Rutwik-RS/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rutwik-RS/DSA/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Rutwik-RS/DSA/tree/master/0091-decode-ways) |
@@ -437,4 +440,8 @@ Language: Java
 | ------- |
 | [0101-symmetric-tree](https://github.com/Rutwik-RS/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rutwik-RS/DSA/tree/master/0110-balanced-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rutwik-RS/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
