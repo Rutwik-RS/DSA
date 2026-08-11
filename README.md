@@ -32,6 +32,7 @@ Language: Java
 | [0162-find-peak-element](https://github.com/Rutwik-RS/DSA/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/Rutwik-RS/DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rutwik-RS/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Rutwik-RS/DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Rutwik-RS/DSA/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Rutwik-RS/DSA/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Rutwik-RS/DSA/tree/master/0486-predict-the-winner) |
@@ -68,6 +69,7 @@ Language: Java
 | [0033-search-in-rotated-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rutwik-RS/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rutwik-RS/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Rutwik-RS/DSA/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/Rutwik-RS/DSA/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rutwik-RS/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rutwik-RS/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -175,6 +177,7 @@ Language: Java
 | ------- |
 | [0015-3sum](https://github.com/Rutwik-RS/DSA/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Rutwik-RS/DSA/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/Rutwik-RS/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Rutwik-RS/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Rutwik-RS/DSA/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Rutwik-RS/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -192,6 +195,7 @@ Language: Java
 | [0050-powx-n](https://github.com/Rutwik-RS/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Rutwik-RS/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rutwik-RS/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Rutwik-RS/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Rutwik-RS/DSA/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Rutwik-RS/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rutwik-RS/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -255,6 +259,7 @@ Language: Java
 | ------- |
 | [0136-single-number](https://github.com/Rutwik-RS/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Rutwik-RS/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Rutwik-RS/DSA/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rutwik-RS/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rutwik-RS/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -270,6 +275,7 @@ Language: Java
 | [0141-linked-list-cycle](https://github.com/Rutwik-RS/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rutwik-RS/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rutwik-RS/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/Rutwik-RS/DSA/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Rutwik-RS/DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Rutwik-RS/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rutwik-RS/DSA/tree/master/0496-next-greater-element-i) |
