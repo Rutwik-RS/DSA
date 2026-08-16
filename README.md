@@ -57,6 +57,7 @@ Language: Java
 | [1732-find-the-highest-altitude](https://github.com/Rutwik-RS/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/Rutwik-RS/DSA/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/Rutwik-RS/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2029-stone-game-ix](https://github.com/Rutwik-RS/DSA/tree/master/2029-stone-game-ix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutwik-RS/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rutwik-RS/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -206,6 +207,7 @@ Language: Java
 | [1323-maximum-69-number](https://github.com/Rutwik-RS/DSA/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/Rutwik-RS/DSA/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Rutwik-RS/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/Rutwik-RS/DSA/tree/master/2029-stone-game-ix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rutwik-RS/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rutwik-RS/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rutwik-RS/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -255,6 +257,7 @@ Language: Java
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Rutwik-RS/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1323-maximum-69-number](https://github.com/Rutwik-RS/DSA/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Rutwik-RS/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/Rutwik-RS/DSA/tree/master/2029-stone-game-ix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rutwik-RS/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Rutwik-RS/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bit Manipulation
@@ -323,6 +326,7 @@ Language: Java
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rutwik-RS/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rutwik-RS/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/Rutwik-RS/DSA/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
 | ------- |
@@ -404,6 +408,7 @@ Language: Java
 | [0877-stone-game](https://github.com/Rutwik-RS/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rutwik-RS/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rutwik-RS/DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Rutwik-RS/DSA/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -413,11 +418,13 @@ Language: Java
 | ------- |
 | [1140-stone-game-ii](https://github.com/Rutwik-RS/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rutwik-RS/DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Rutwik-RS/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Rutwik-RS/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rutwik-RS/DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Rutwik-RS/DSA/tree/master/2029-stone-game-ix) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -444,4 +451,8 @@ Language: Java
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rutwik-RS/DSA/tree/master/0005-longest-palindromic-substring) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Rutwik-RS/DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
