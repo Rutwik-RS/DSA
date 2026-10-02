@@ -198,6 +198,7 @@ Language: Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rutwik-RS/DSA/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Rutwik-RS/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Rutwik-RS/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Rutwik-RS/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rutwik-RS/DSA/tree/master/0231-power-of-two) |
@@ -266,6 +267,7 @@ Language: Java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Rutwik-RS/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Rutwik-RS/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Rutwik-RS/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rutwik-RS/DSA/tree/master/0268-missing-number) |
